@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Echo Viagens</string>
+    <!-- Mova os elementos <string> para fora dos estilos -->
+    <string name="card_number">Número do Cartão</string>
+    <string name="card_expiration">Data de Validade (MM/AA)</string>
+    <string name="cvc">CVC</string>
+    <string name="finish_payment">Finalizar Pagamento</string>
+    <string name="total_value">Valor Total: $0.00</string>
+
+    <style name="Theme.Ecsf" parent="Theme.AppCompat.Light">
+        <!-- Definições de estilo aqui -->
+    </style>
+
+    <style name="Theme.ListaDados" parent="Theme.AppCompat.Light">
+        <!-- Definições de estilo aqui -->
+    </style>
+</resources>
